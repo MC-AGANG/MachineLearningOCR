@@ -1,0 +1,13 @@
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\bin\Debug\神经网络模型.exe.config
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\bin\Debug\神经网络模型.exe
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\bin\Debug\神经网络模型.pdb
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\bin\Debug\神经网络模型.xml
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\obj\Debug\神经网络模型.vbproj.AssemblyReference.cache
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\obj\Debug\神经网络模型.Form1.resources
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\obj\Debug\神经网络模型.Resources.resources
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\obj\Debug\神经网络模型.vbproj.GenerateResource.cache
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\obj\Debug\神经网络模型.vbproj.CoreCompileInputs.cache
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\obj\Debug\神经网络模型.exe
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\obj\Debug\神经网络模型.xml
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\obj\Debug\神经网络模型.pdb
+C:\Users\AGANG\source\repos\神经网络模型\神经网络模型\obj\Debug\神经网络模型.Form2.resources
